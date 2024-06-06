@@ -70,4 +70,4 @@
 设置好Actions secrets后就可以在Action中运行了。如不运行在库中进行任意提交触发Action即可
 
 给力start-go
-2024.04.13
+2024.06.16
